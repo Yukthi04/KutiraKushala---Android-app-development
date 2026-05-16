@@ -1,0 +1,8 @@
+{
+  "name": "kutira-kushala-android",
+  "version": "1.0.0",
+  "description": "Android app project",
+  "scripts": {
+    "build": "sh gradlew assembleDebug"
+  }
+}
